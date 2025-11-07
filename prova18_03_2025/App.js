@@ -21,7 +21,7 @@ export default function app() {
           <View style={styles.comentarios}>
 
             <View style={styles.cardPerfil}>
-              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: '100%'}} />
+              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: 100}} />
               <View style={styles.colum}>
                 <Text style={[styles.text, styles.subTitle]}>Milena</Text>
                 <Text style={[styles.text, styles.textDes]}>fevereiro 2021</Text>
@@ -32,18 +32,18 @@ export default function app() {
             </Text>
 
             <View style={styles.cardPerfil}>
-              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: '100%'}} />
+              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: 100}} />
               <View style={styles.colum}>
                 <Text style={[styles.text, styles.subTitle]}>Steffany</Text>
                 <Text style={[styles.text, styles.textDes]}>janeiro 2021</Text>
               </View>
             </View>
             <Text style={[styles.text, styles.textComen]}>
-              Ótima localização! Proximo aos principais pontos de interesse em punta cana.         Comodidades no flat. Os fucionários também se mostraram dispostos a resolver imprevistos.
+              Ótima localização! Proximo aos principais pontos de interesse em punta cana. Comodidades no flat. Os fucionários também se mostraram dispostos a resolver imprevistos.
             </Text>
 
             <View style={styles.cardPerfil}>
-              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: '100%'}} />
+              <Image source={FotoPerfil} style={{width: 50, height: 50, borderRadius: 100}} />
               <View style={styles.colum}>
                 <Text style={[styles.text, styles.subTitle]}>Maria Luiza</Text>
                 <Text style={[styles.text, styles.textDes]}>dezembro 2020</Text>
