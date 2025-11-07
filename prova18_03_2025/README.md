@@ -9,3 +9,7 @@ Esse projeto foi desenvolvido no <a href="https://expo.dev" target="_blank">Expo
 import { Text, View, StyleSheet, Image } from 'react-native';
 import Constants from 'expo-constants';
 ```
+
+## Resultados
+### Arquivo do código:
+<a href="https://github.com/CarlosEOsawaC/Programacao-para-Dispositivos-Moveis/blob/main/prova18_03_2025/App.js" target="_blank">App.js</a>
