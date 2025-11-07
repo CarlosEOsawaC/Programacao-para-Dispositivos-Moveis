@@ -3,6 +3,8 @@
 ## Objetivo
 Fazer uma tela utilizando o framework <a href="https://reactnative.dev/" target="_blank">React Native</a>, se baseando em uma imagem proposta pelo professor <a href="https://github.com/tarley" target="_blank">Tarley Francis de Lana</a>, que seria disponibilizada no momento que ele iniciasse a prova. A imagem proposta foi uma tela de um suposto APP de hospedagem que continham: uma imagem do resort, o nome do local, média das avaliações e alguns comentários.
 
+A tela tem o intuito de ser apenas visual, sem nenhum tipo de interação.
+
 ## Tecnologias
 Esse projeto foi desenvolvido no <a href="https://expo.dev" target="_blank">Expo</a>. Para desenvolvê-lo foi necessário importar:
 ```
