@@ -13,7 +13,7 @@ import Constants from 'expo-constants';
 ```
 
 <div align="center">
-<a href="https://expo.dev" target="_blank"><img src="" width="50%"/></a>
+<a href="https://expo.dev" target="_blank"><img src="https://github.com/CarlosEOsawaC/Programacao-para-Dispositivos-Moveis/blob/main/Img%20PDM%20README/ExpoLogoVector.png"/></a>
 </div>
 
 ## Resultados
